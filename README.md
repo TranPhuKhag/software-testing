@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2024 by giáo.làng](https://github.com/TranPhuKhag/software-testing/actions/workflows/maven.yml/badge.svg)](https://github.com/TranPhuKhag/software-testing/actions/workflows/maven.yml)
+[![Math Utility Project (CI included) | © 2024 by TranPhuKhag](https://github.com/TranPhuKhag/software-testing/actions/workflows/maven.yml/badge.svg)](https://github.com/TranPhuKhag/software-testing/actions/workflows/maven.yml)
 # Math Utility (Maven Project )
 
 ## Welcome to Math Utility project
